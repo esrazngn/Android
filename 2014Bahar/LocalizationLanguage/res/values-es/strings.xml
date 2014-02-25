@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bienvenido a&#160;</string>
+    <string name="our">Nuestra&#160;</string>
+    <string name="pool">piscina</string>
+    <string name="reserve">¡Reserva Ahora!</string>
+    <string name="confirmed">Registro Confirmado</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="resort_name">AndroidResort.com</string>
+    <string name="welcome">Welcome to&#160;</string>
+    <string name="our">Our&#160;</string>
+    <string name="pool">swimming pool</string>
+    <string name="reserve">Reserve Now!</string>
+    <string name="confirmed">Registration Confirmed</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center_horizontal"
+              android:background="@color/background">
+    <TextView android:text="@string/welcome" 
+              android:layout_width="wrap_content" 
+              android:layout_height="wrap_content"
+              android:textSize="@dimen/heading_size"
+              android:textColor="@color/heading_foreground"/>
+    <TextView android:text="@string/resort_name" 
+              android:layout_width="wrap_content" 
+              android:layout_height="wrap_content"
+              android:textSize="@dimen/heading_size"
+              android:textColor="@color/heading_foreground"/>
+    <ImageView android:src="@drawable/android_resort_pool"
+               android:layout_height="wrap_content" 
+               android:layout_width="wrap_content"
+               android:adjustViewBounds="true"
+               android:scaleType="fitXY"/>
+    <LinearLayout android:gravity="center_horizontal" 
+                  android:layout_height="wrap_content" 
+                  android:layout_width="match_parent">
+        <TextView android:layout_height="wrap_content" 
+                  android:layout_width="wrap_content" 
+                  android:textColor="@color/body_foreground" 
+                  android:textSize="@dimen/body_size" 
+                  android:text="@string/our"/>
+        <TextView android:layout_height="wrap_content" 
+                  android:layout_width="wrap_content" 
+                  android:textColor="@color/body_foreground" 
+                  android:textSize="@dimen/body_size" 
+                  android:text="@string/pool"/>
+    </LinearLayout>
+    <Button android:text="@string/reserve" 
+            android:onClick="confirmRegistration"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"/>
+</LinearLayout>

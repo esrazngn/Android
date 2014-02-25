@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Button Odev</string>
+    <string name="action_settings">action setting</string>
+    <string name="but">Geri</string>
+    <string name="hi_label">Hi!</string>
+    <string name="bye_label">Bye!</string>
+    <string name="yo_label">Yo!</string>
+    <string name="man_label">Erkek</string>
+    <string name="woman_label">Kadın</string>
+    <string name="android_label">Android</string>
+    <string name="iphone_label">IPhone</string>
+    <string name="button_message_template">
+       You clicked the \'%s\' Widget.
+    </string>
+    <string name="toggle_button_message_template" formatted="false">
+        You turned the ToggleButton %s. Label is now \'%s\'.
+    </string>
+    
+    <string name="new_selection_message_template">
+        You selected the \'%s\' RadioButton. There was no previous selection.
+    </string>
+	<string name="sonraki">Sonraki Sayfa</string>
+</resources>

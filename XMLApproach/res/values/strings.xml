@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XMLApproach</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="window_text">Press the button</string>
+    <string name="button_label">Show Greeting</string>
+    <string name="greeting_test">Hello From Android</string>
+
+</resources>

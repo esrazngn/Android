@@ -1,0 +1,6 @@
+siparisID		Siparisler
+100				Tavuk Şiş 9.50 TL   Miktar : 4 --> Fiyat: 38.0 TL Meyve Suyu (33 cl.) 2.50 TL   Miktar : 2 --> Fiyat: 5.0 TL Çoban Salata  4.00 TL   Miktar : 2 --> Fiyat: 8.0 TL Toplam Tutar : 51.0 TL Raiting :  4.5/5 
+101				Tavuk Şiş 9.50 TL   Miktar : 3 --> Fiyat: 28.5 TL Meyve Suyu (33 cl.) 2.50 TL   Miktar : 5 --> Fiyat: 12.5 TL Çoban Salata  4.00 TL   Miktar : 4 --> Fiyat: 16.0 TL Toplam Tutar : 57.0 TL Raiting :  3.0/5 
+102				Tavuk Şiş 9.50 TL   Miktar : 2 --> Fiyat: 19.0 TL Yedigün (33 cl.)  2.50 TL   Miktar : 10 --> Fiyat: 25.0 TL Çoban Salata  4.00 TL   Miktar : 2 --> Fiyat: 8.0 TL Toplam Tutar : 52.0 TL Raiting :  4.0/5 
+102				Tavuk Şiş 9.50 TL   Miktar : 2 --> Fiyat: 19.0 TL Yedigün (33 cl.)  2.50 TL   Miktar : 10 --> Fiyat: 25.0 TL Çoban Salata  4.00 TL   Miktar : 2 --> Fiyat: 8.0 TL Toplam Tutar : 52.0 TL Raiting :  4.0/5 
+Kasap Köfte 9.90 TL   Miktar : 3 --> Fiyat: 29.700000000000003 TL Su 1.00 TL   Miktar : 1 --> Fiyat: 1.0 TL Mevsim Salata  4.00 TL   Miktar : 2 --> Fiyat: 8.0 TL Toplam Tutar : 90.7 TL Raiting :  4.5/5 

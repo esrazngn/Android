@@ -1,0 +1,2 @@
+[{"KullaniciAdi":"esel55","yetki":0,"parola":1,"bilgiler":["es","sdf","es"]},
+{"KullaniciAdi":"esel55","yetki":0,"parola":1,"bilgiler":["es","sdf","es"]}]

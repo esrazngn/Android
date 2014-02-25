@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WidgetEvent</string>
+    <string name="red_prompt">Red</string>
+    <string name="blue_prompt">Blue</string>
+    <string name="yellow_prompt">Yellow</string>
+    
+</resources>

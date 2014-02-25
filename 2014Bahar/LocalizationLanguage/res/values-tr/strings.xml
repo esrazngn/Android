@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="welcome">Hoş Geldiniz&#160;</string>
+    <string name="our">Bizim&#160;</string>
+    <string name="pool">Havuzumuz</string>
+    <string name="reserve">Rezervasyon</string>
+    <string name="confirmed">Kayıt Başarılı</string>
+</resources>
+
